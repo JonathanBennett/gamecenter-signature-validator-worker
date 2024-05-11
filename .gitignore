@@ -1,3 +1,6 @@
+# Act local secrets
+.secrets
+
 # Logs
 
 logs
